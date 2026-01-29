@@ -12,7 +12,7 @@ const About = () => {
       w-full h-full"
       >
         <div className="pb-8">
-          <p className="justify-center font-signature text-7xl inline border-b-4 border-gray-500">
+          <p className="justify-center text-7xl inline border-b-4 border-gray-500">
             About
           </p>
         </div>

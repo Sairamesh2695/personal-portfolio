@@ -48,7 +48,7 @@ const Portfolio = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="justify-center font-signature text-7xl inline border-b-4 border-gray-500">
+          <p className="justify-center text-7xl inline border-b-4 border-gray-500">
             Portfolio
           </p>
           <p className="py-6">Check out some of my work right here</p>
